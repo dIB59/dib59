@@ -5,11 +5,11 @@
  -->
  - 🔭 I’m currently working on [a particle simulator](https://github.com/dIB59/particle-simulator-java)
 
-- 🌱 I’m currently learning **how to implement The Barnes-Hut Algorithm in my simulator**
+- 🌱 For that I am learning **how to implement The Barnes-Hut Algorithm in my simulator**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1cp9TmttY5D4nFU4lWou99RqE2hvzXoVpRR5pDPnPMiw/edit?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://docs.google.com/document/d/1cp9TmttY5D4nFU4lWou99RqE2hvzXoVpRR5pDPnPMiw/edit?usp=sharing)
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dib59" alt="dib59" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dib59" alt="dib59" /></a> </p> -->
 
 
 
