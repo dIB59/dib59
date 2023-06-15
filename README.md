@@ -5,7 +5,7 @@
  -->
  - 🔭 I’m currently working on [a particle simulator](https://github.com/dIB59/particle-simulator-java)
 
-- 🌱 For that I am learning **how to implement The Barnes-Hut Algorithm in my simulator**
+- 🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**
 
 - 📄 Know about my experiences through my [Resume](https://docs.google.com/document/d/1cp9TmttY5D4nFU4lWou99RqE2hvzXoVpRR5pDPnPMiw/edit?usp=sharing)
  
