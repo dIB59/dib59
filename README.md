@@ -10,7 +10,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div >
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dib59&show_icons=true&locale=en&layout=compact" alt="dib59" width="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dib59&show_icons=true&locale=en&layout=compact" alt="dib59" width="270"/>
 <br>
 
 <div>
