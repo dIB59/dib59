@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">A passionate backend developer from Sweden</h3>
+![ibrahim-2240x840](https://github.com/dIB59/dib59/assets/63118347/5449dd94-7073-4e74-8ff7-0d79a7451b1d)
+
+🔭 I’m currently working on [a particle simulator](https://github.com/dIB59/particle-simulator-java)
+
+🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**
+
+📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/files/12037498/Copy.of.Ibrahim.Iqbal.Salt.CV.pdf)
 
 
- - 🔭 I’m currently working on [a particle simulator](https://github.com/dIB59/particle-simulator-java)
-
-- 🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**
-
-- 📄 Know about my experiences through my [Resume](https://docs.google.com/document/d/1cp9TmttY5D4nFU4lWou99RqE2hvzXoVpRR5pDPnPMiw/edit?usp=sharing)
 
 <h3 align="center">Languages and Tools:</h3>
 <div >
