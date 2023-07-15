@@ -1,10 +1,10 @@
 ![ibrahim-2240x840](https://github.com/dIB59/dib59/assets/63118347/5449dd94-7073-4e74-8ff7-0d79a7451b1d)
 
-🔭 I’m currently working on [a how long to beat games project.](https://github.com/dIB59/How-Long-to-Beat-your-steam-games)
+- 🔭 I’m currently working on [a how long to beat games project.](https://github.com/dIB59/How-Long-to-Beat-your-steam-games)
 
-🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**.
+- 🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**.
 
-📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/files/12037498/Copy.of.Ibrahim.Iqbal.Salt.CV.pdf)
+- 📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/files/12037498/Copy.of.Ibrahim.Iqbal.Salt.CV.pdf)
 
 
 
