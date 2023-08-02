@@ -1,6 +1,6 @@
 ![ibrahim-2240x840](https://github.com/dIB59/dib59/assets/63118347/5449dd94-7073-4e74-8ff7-0d79a7451b1d)
 
-- 🔭 I’m currently working on [a how long to beat games project.](https://github.com/dIB59/How-Long-to-Beat-your-steam-games)
+- 🔭 I’m currently working on [Virtual Study Groups](https://github.com/dIB59/Virtual-Study-Groups)
 
 - 🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**.
 
