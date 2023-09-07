@@ -4,9 +4,7 @@
 
 - 🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**.
 
-- 📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/files/12037498/Copy.of.Ibrahim.Iqbal.Salt.CV.pdf)
-
-
+- 📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/files/12551368/Ibrahim.Iqbal.CV.2023.pdf)
 
 <h3 align="center">Languages and Tools:</h3>
 <div >
