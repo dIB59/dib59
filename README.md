@@ -34,6 +34,8 @@
 </div>
 
 </p>
-![Ibrahim Iqbal](https://raw.githubusercontent.com/dIB59/dib59/6b4ee257b42f95085dc64edeb4123c6202aabcce/bottom_header.svg)
+
+![bottom_header](https://github.com/dIB59/dib59/assets/63118347/a7a00b60-efd7-4951-a5e4-62313da115f3)
+
 <br>
 </p>
