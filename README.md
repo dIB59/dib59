@@ -4,7 +4,6 @@
 
 - 📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/files/13121808/Ibrahim.Iqbal.CV.2023.no.phone.pdf)
 
-<h3 align="center">Languages and Tools:</h3>
  <br>
 <div align="center" style="display: inline-block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dib59&show_icons=true&locale=en&layout=compact" alt="dib59" width="400" />
@@ -14,6 +13,8 @@
   <img align="center" src="https://leetcard.jacoblin.cool/dIB59?theme=dark&font=Lusitana" alt="leetcode" width="400" />
 </div>
  <br>
+
+ <h3 align="center">Languages and Tools:</h3>
 
 <div>
 <p align="center"> 
