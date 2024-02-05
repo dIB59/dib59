@@ -14,7 +14,7 @@
 </div>
  <br>
 
- <h3 align="center">Languages and Tools:</h3>
+ <h3 align="center">Tools:</h3>
 
 <div>
 <p align="center"> 
