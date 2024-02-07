@@ -2,7 +2,7 @@
 
 - 🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**.
 
-- 📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/files/13121808/Ibrahim.Iqbal.CV.2023.no.phone.pdf)
+- 📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/blob/main/Ibrahim%20Iqbal%20CV%202024.pdf)
   
  <br>
 <div align="center" style="display: inline-block;">
