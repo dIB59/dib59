@@ -1,9 +1,3 @@
-- 🔭 I’m currently working on [a firefox extension](https://github.com/dIB59/EasyApply)
-
-- 🌱 I am learning how to implement **The Barnes-Hut Algorithm in my simulator**.
-
-- 📄 Know about my experiences through my [Resume](https://github.com/dIB59/dib59/blob/main/Ibrahim%20Iqbal%20CV%202024.pdf)
-  
  <br>
 <div align="center" style="display: inline-block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dib59&show_icons=true&locale=en&layout=compact" alt="dib59" width="400" />
