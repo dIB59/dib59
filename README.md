@@ -1,6 +1,8 @@
  <br>
 <div align="center" style="display: inline-block;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dib59&show_icons=true&locale=en&layout=compact" alt="dib59" width="400" />
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dib59&layout=compact&theme=dark&langs_count=8)
+
 </div>
 
 <div align="center" style="display: inline-block;">
